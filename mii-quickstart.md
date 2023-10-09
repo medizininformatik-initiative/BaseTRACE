@@ -1,7 +1,7 @@
 # MII Quickstart Guide ![](https://pad.gwdg.de/uploads/36d476c8-c759-4829-aa87-53952155eec8.png)
 You just started working in a medical data integration center (DIC). Congratulations - you are part of an exciting network encompassing all 36 university hospitals in Germany! :smiley:
 
-## Organisational Structure of the MII
+### Organisational Structure of the MII
 ![](./MII-Structure.drawio.png)
 
 The main organisational components are 
