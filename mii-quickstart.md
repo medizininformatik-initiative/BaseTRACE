@@ -2,17 +2,16 @@
 You just started working in a medical data integration center (DIC). Congratulations - you are part of an exciting network encompassing all 36 university hospitals in Germany! :smiley:
 
 # Organisational Structure of the MII
+![](./MII-Structure.drawio.png)
 
 The main organisational components are 
-- Data Integration Center
+- Data Integration Center: The DIC is typically a facility within a hospital closely connected to clinical data centers, ensuring a tight integration with healthcare systems; its responsibilities include collecting data from various source systems, consolidating and processing this data, ensuring data quality and data protection, and making the processed data available for medical research while also facilitating the integration of research findings into patient care.
 - University Hospital (aka MII-Site)
-- MII Consortium
-- Central Coordination
-- MII Project
-- Central Committee
+- MII Consortium: Explained in [consortia chapter](##consortia)
+- Central Coordination: The Central Coordination is the coordinating office responsible for organizing and supporting the overarching collaboration within the Medical Informatics Initiative, operated by "Technologie- und Methodenplattform für die vernetzte medizinische Forschung e.V." in Berlin.
+- MII Project: There are 3 different categories: Module 2b projects, Module 3 projects and Digitale FortschrittHubs Gesundheit. In this guide, the projects are introduced briefly.
+- Central Committee: The central committee of the Medical Informatics Initiative, oversees and guides the implementation of the funding concept by coordinating collaboration, making decisions on working groups and topics, and providing recommendations on various aspects of the initiative, including data usage and standards.
 - The Medical Informatics Initiative in total
-
-![](./MII-Structure.drawio.png)
 
 
 Here you get an overview of the structure of the Medical Informatics Initiative.
@@ -50,7 +49,7 @@ The initiative supports the training of "data scientists" who have both computer
 
 
 
-## Locations and consortia of the MII
+## <a name="consortia"></a>Locations and consortia of the MII
 The MII consists of four consortia, which work at different locations and on different medical topics or clinical use cases. The following map shows the consortia and their locations. Afterwards, each consortium is briefly introduced and their research focus or clinical use cases are explained.
 ![](https://pad.gwdg.de/uploads/e3b3b010-eba5-4075-96b8-da49d5ca1246.jpg)
 
@@ -124,3 +123,4 @@ www.highmed.org
 difuture.de
 smith.care
 www.miracum.org
+
