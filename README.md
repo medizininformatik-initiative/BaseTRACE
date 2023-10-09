@@ -48,10 +48,21 @@ If you start started working in a medical data integration center in a German Un
 | Talend Data Integration (Book with Tutorials) | https://books.google.de/books/about/Datenintegration.html?id=7TZQAgAAQBAJ&redir_esc=y | German
 | Python Pandas | https://pandas.pydata.org/ | English
 
+### Further useful technologies
+| Description | Link |Language
+| -------- | -------- | -------- |
+| Docker |  | 
+| Active Workflow |  |
+
+### Concepts
+| Description | Link |Language
+| -------- | -------- | -------- |
+| FAIR Principles |  |
+| Pseudonymisation |  |
+
 ### Additional material
 | Description | Link |Language
 | -------- | -------- | -------- |
 | Establishment of a data integration center. | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2023/2023-07-04-das-diz-am-klinikum-chemnitz-motivation-konzeption-mehrwert https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2023/2023-06-20-das-diz-am-ukr-stand-des-aufbaus-und-spezifit%C3%A4ten| German
-| Data 
 
 We hope you found the information you are looking for. If not, please open an issue and give feedback. 
