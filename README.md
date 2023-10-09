@@ -3,7 +3,6 @@ You just started working in a medical data integration center (DIC). Congratulat
 Here you can get your onboarding information.
 ## General information about MII
 https://www.medizininformatik-initiative.de/en/start
-https://www.medizininformatik-initiative.de/en/about-initiative/goals
 If you are member in an MII project and are interested what the others are doing, what solutions are developed and where to find support, you are spot-on. 
 If you start started working in a medical data integration center in a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md)
 
@@ -53,12 +52,14 @@ If you start started working in a medical data integration center in a German Un
 | -------- | -------- | -------- |
 | Docker |  | 
 | Active Workflow |  |
+| ... |  |
 
 ### Concepts
 | Description | Link |Language
 | -------- | -------- | -------- |
 | FAIR Principles |  |
 | Pseudonymisation |  |
+| ... |  |
 
 ### Additional material
 | Description | Link |Language
