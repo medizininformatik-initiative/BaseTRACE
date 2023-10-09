@@ -10,37 +10,9 @@ The main organisational components are
 - Central Coordination
 - MII Project
 - Central Committee
-- Overall MII
+- The Medical Informatics Initiative in total
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](./MII-Structure.drawio.png)
 
 
 Here you get an overview of the structure of the Medical Informatics Initiative.
