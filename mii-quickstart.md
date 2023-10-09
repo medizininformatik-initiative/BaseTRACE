@@ -1,5 +1,48 @@
 # MII Quickstart Guide ![](https://pad.gwdg.de/uploads/36d476c8-c759-4829-aa87-53952155eec8.png)
-You just started working in a medical data integration center. Congratulations - you are part of an exciting network encompassing all 36 university hospitals in Germany! :smiley:
+You just started working in a medical data integration center (DIC). Congratulations - you are part of an exciting network encompassing all 36 university hospitals in Germany! :smiley:
+
+# Organisational Structure of the MII
+
+The main organisational components are 
+- Data Integration Center
+- University Hospital (aka MII-Site)
+- MII Consortium
+- Central Coordination
+- MII Project
+- Central Committee
+- Overall MII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Here you get an overview of the structure of the Medical Informatics Initiative.
 
 The **Medical Informatics Initiative (MII)** is a significant project in the healthcare sector in Germany. Its objective is to digitalise and network health data in order to improve health care and medical research. This wiki provides a basic overview of the MII for beginners. 
