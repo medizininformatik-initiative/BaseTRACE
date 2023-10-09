@@ -5,12 +5,12 @@ You just started working in a medical data integration center (DIC). Congratulat
 ![](./MII-Structure.drawio.png)
 
 The main organisational components are 
-- Data Integration Center: The DIC is typically a facility within a hospital closely connected to clinical data centers, ensuring a tight integration with healthcare systems; its responsibilities include collecting data from various source systems, consolidating and processing this data, ensuring data quality and data protection, and making the processed data available for medical research while also facilitating the integration of research findings into patient care.
-- University Hospital (aka MII-Site)
-- MII Consortium: Explained in [consortia chapter](##consortia)
-- Central Coordination: The Central Coordination is the coordinating office responsible for organizing and supporting the overarching collaboration within the Medical Informatics Initiative, operated by "Technologie- und Methodenplattform für die vernetzte medizinische Forschung e.V." in Berlin.
-- MII Project: There are 3 different categories: Module 2b projects, Module 3 projects and Digitale FortschrittHubs Gesundheit. In this guide, the projects are introduced briefly.
-- Central Committee: The central committee of the Medical Informatics Initiative, oversees and guides the implementation of the funding concept by coordinating collaboration, making decisions on working groups and topics, and providing recommendations on various aspects of the initiative, including data usage and standards.
+- **Data Integration Center**: The DIC is typically a facility within a hospital closely connected to clinical data centers, ensuring a tight integration with healthcare systems; its responsibilities include collecting data from various source systems, consolidating and processing this data, ensuring data quality and data protection, and making the processed data available for medical research while also facilitating the integration of research findings into patient care.
+- **University Hospital**: *The medical centres involved are visualised in the image below*
+- **MII Consortium**: Explained in [consortia chapter](##consortia)
+- **Central Coordination**: The Central Coordination is the coordinating office responsible for organizing and supporting the overarching collaboration within the Medical Informatics Initiative, operated by "Technologie- und Methodenplattform für die vernetzte medizinische Forschung e.V." in Berlin.
+- **MII Project**: There are 3 different categories: Module 2b projects, Module 3 projects and Digitale FortschrittHubs Gesundheit. In this guide, the projects are introduced briefly.
+- **Central Committee**: The central committee of the Medical Informatics Initiative, oversees and guides the implementation of the funding concept by coordinating collaboration, making decisions on working groups and topics, and providing recommendations on various aspects of the initiative, including data usage and standards.
 - The Medical Informatics Initiative in total
 
 
