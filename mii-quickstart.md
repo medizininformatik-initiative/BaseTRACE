@@ -1,0 +1,3 @@
+# MII Quickstart Guide
+
+You just started working in a medical data integration center. Congratulations - you are part of an exciting network encompassing all 36 university hospitals in Germany...
