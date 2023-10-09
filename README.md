@@ -9,18 +9,23 @@ If you start started working in a medical data integration center in a German Un
 ###  Data standards and exchange
 | Project | Description | Contact | Link/Material
 | --- | --- | --- | ---
+| CAEHR | | Prof. Dr. Dagmar Krefting | https://www.gesundheitsforschung-bmbf.de/de/caehr-die-versorgung-von-menschen-mit-herz-kreislauferkrankungen-optimieren-13019.php
+| MiHUBx | | Prof. Dr. Martin Sedlymayr | https://mihubx.de/
 
 ### Mobile apps & development
 | Project | Description | Contact | Link/Material
 | --- | --- | --- | ---
+| DISTANCE | | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
 
 ### Image processing
 | Project | Description | Contact | Link/Material
 | --- | --- | --- | ---
 
-### Data analysis and artifical intelligence
+### Artifical intelligence
 | Project | Description | Contact | Link/Material
 | --- | --- | --- | ---
+| DECIDE | | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
+
 
 ### Medical devices law
 | Project | Description | Contact | Link/Material
@@ -33,3 +38,5 @@ If you start started working in a medical data integration center in a German Un
 ### Telemedicine
 | Project | Description | Contact | Link/Material
 | --- | --- | --- | ---
+| LeMeDaRT | | Prof. Dr. Joachim E. Fischer | https://www.gesundheitsforschung-bmbf.de/de/lemedart-stadt-land-datenfluss-13055.php
+| DECIDE | | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
