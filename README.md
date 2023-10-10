@@ -13,8 +13,8 @@ If you just started working in a medical data integration center of a German Uni
 | Specification | MII-CDS | Consented for exchange within the MII | [MII Working group Interoperability](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group)  | [MII-CDS-Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects) |
 | Specification | Medical Information Objects | Standard for German electronic Health Record | [KBV-MIO, in German](https://mio.kbv.de/site/mio#) | [MIO-Specification in Simplifier](https://simplifier.net/search?Term=kbv.mio)|
 | --- | ---| --- | --- | --- |
-| Project | CAEHR  | Specification for Cardiovascular Data | Prof. Dr. Dagmar Krefting | https://www.gesundheitsforschung-bmbf.de/de/caehr-die-versorgung-von-menschen-mit-herz-kreislauferkrankungen-optimieren-13019.php
-| Project |MiHUBx | | Prof. Dr. Martin Sedlymayr | https://mihubx.de/
+| Project | CAEHR  | Specification for Cardiovascular Data | Prof. Dr. Dagmar Krefting | https://www.highmed.org/de/caehr |
+| Project |MiHUBx | xxx | Prof. Dr. Martin Sedlymayr | https://mihubx.de/ |
 
 ### Mobile apps & development
 
