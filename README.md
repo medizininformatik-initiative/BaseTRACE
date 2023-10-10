@@ -12,8 +12,8 @@ If you just started working in a medical data integration center of a German Uni
 
 | Type | Name | Description | Contact | Link/Material |
 | --- | ---| --- | --- | --- |
-| Specification | MII-CDS | Consented for exchange within the MII | --- | [Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects) |
-| Working Group | MII-AG-Interop | Working Group that defines the MII-CDS |  | [Website](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group) |
+| Specification | MII-CDS | Consented for exchange within the MII | [MII Working group Interoperability](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group) ) | [Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects) |
+| Specification | Medical Information Objects | Standard for German electronic Health Record | K[BV-MIO, in German](https://mio.kbv.de/site/mio#) | [Specification in Simplifier](https://simplifier.net/search?Term=kbv.mio)|
 | --- | ---| --- | --- | --- |
 | Project | CAEHR  | Specification for Cardiovascular Data | Prof. Dr. Dagmar Krefting | https://www.gesundheitsforschung-bmbf.de/de/caehr-die-versorgung-von-menschen-mit-herz-kreislauferkrankungen-optimieren-13019.php
 | Project |MiHUBx | | Prof. Dr. Martin Sedlymayr | https://mihubx.de/
