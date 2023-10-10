@@ -12,16 +12,18 @@ If you just started working in a medical data integration center of a German Uni
 
 | Type | Name | Description | Contact | Link/Material |
 | --- | ---| --- | --- | --- |
-| Specification | MII-CDS | Consented for exchange within the MII | [MII Working group Interoperability](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group) ) | [Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects) |
-| Specification | Medical Information Objects | Standard for German electronic Health Record | K[BV-MIO, in German](https://mio.kbv.de/site/mio#) | [Specification in Simplifier](https://simplifier.net/search?Term=kbv.mio)|
+| Specification | MII-CDS | Consented for exchange within the MII | [MII Working group Interoperability](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group)  | [MII-CDS-Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects) |
+| Specification | Medical Information Objects | Standard for German electronic Health Record | [KBV-MIO, in German](https://mio.kbv.de/site/mio#) | [MIO-Specification in Simplifier](https://simplifier.net/search?Term=kbv.mio)|
 | --- | ---| --- | --- | --- |
 | Project | CAEHR  | Specification for Cardiovascular Data | Prof. Dr. Dagmar Krefting | https://www.gesundheitsforschung-bmbf.de/de/caehr-die-versorgung-von-menschen-mit-herz-kreislauferkrankungen-optimieren-13019.php
 | Project |MiHUBx | | Prof. Dr. Martin Sedlymayr | https://mihubx.de/
 
 ### Mobile apps & development
-| Project | Description | Contact | Link/Material
-| --- | --- | --- | ---
-| DISTANCE | | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
+
+| Type | Name | Description | Contact | Link/Material |
+| --- | --- | --- | --- |---| 
+| Open Source App-Framework | Compass-App | non-MDR web-app and native app with questionaire editor  | [NUM-Compass Project](https://num-compass.science/en/) | [Repositories on github](https://github.com/NUMde) |
+| Project | DISTANCE | | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
 
 
 ### Medical devices regulations
