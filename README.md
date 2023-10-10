@@ -26,11 +26,12 @@ If you just started working in a medical data integration center of a German Uni
 | Project | DISTANCE | | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
 
 
-### Medical devices regulations
+### Medical device regulations
 
-| Project | Description | Contact | Link/Material
-| --- | --- | --- | ---
-
+| Type | Name | Description | Contact | Link/Material |
+| --- | --- | --- | --- | ---- |
+| Project | fit4Translation |  | | |
+ 
 ### Data Protection
 | Project | Description | Contact | Link/Material
 | --- | --- | --- | ---
