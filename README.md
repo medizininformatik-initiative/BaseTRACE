@@ -1,21 +1,39 @@
-# Awesome MII ![DIC](https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/2b244e69-661f-4407-ae8d-724d790f70b3)
+# Awesome MII ![Medical_Informatics_Initiative_Germany](https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png)
 
 ## General information about MII
 https://www.medizininformatik-initiative.de/en/start
-If you are member in an MII project and are interested what the others are doing, what solutions are developed and where to find support, you are spot-on. 
-If you start started working in a medical data integration center in a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). Further information to the MII is in this [file](./MII_Information.md).
+If you are member in an MII project and are interested what the others are doing, what solutions are developed and where to find support, you are spot-on.
 
-## MII-projects by topic
-###  Data standards and exchange
-| Project | Description | Contact | Link/Material
-| --- | --- | --- | ---
-| CAEHR | | Prof. Dr. Dagmar Krefting | https://www.gesundheitsforschung-bmbf.de/de/caehr-die-versorgung-von-menschen-mit-herz-kreislauferkrankungen-optimieren-13019.php
-| MiHUBx | | Prof. Dr. Martin Sedlymayr | https://mihubx.de/
+If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
+
+## Topics of Interest
+
+###  Health Data standards and exchange
+
+| Type | Name | Description | Contact | Link/Material |
+| --- | ---| --- | --- | --- |
+| Specification | MII-CDS | Consented for exchange within the MII | --- | [Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects) |
+| Working Group | MII-AG-Interop | Working Group that defines the MII-CDS |  | [Website](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group) |
+| --- | ---| --- | --- | --- |
+| Project | CAEHR  | Specification for Cardiovascular Data | Prof. Dr. Dagmar Krefting | https://www.gesundheitsforschung-bmbf.de/de/caehr-die-versorgung-von-menschen-mit-herz-kreislauferkrankungen-optimieren-13019.php
+| Project |MiHUBx | | Prof. Dr. Martin Sedlymayr | https://mihubx.de/
 
 ### Mobile apps & development
 | Project | Description | Contact | Link/Material
 | --- | --- | --- | ---
 | DISTANCE | | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
+
+
+### Medical devices regulations
+
+| Project | Description | Contact | Link/Material
+| --- | --- | --- | ---
+
+### Data Protection
+| Project | Description | Contact | Link/Material
+| --- | --- | --- | ---
+
+
 
 ### Image processing
 | Project | Description | Contact | Link/Material
@@ -27,13 +45,6 @@ If you start started working in a medical data integration center in a German Un
 | DECIDE | | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
 
 
-### Medical devices law
-| Project | Description | Contact | Link/Material
-| --- | --- | --- | ---
-
-### Privacy
-| Project | Description | Contact | Link/Material
-| --- | --- | --- | ---
 
 ### Telemedicine
 | Project | Description | Contact | Link/Material
