@@ -6,19 +6,19 @@ The MII is addressing a number of ambitious goals to transform healthcare in Ger
 
 The main goal of the MII is to make data from routine care digital, reliable and quickly available for medical research. By using IT-based analyses of this data, research should help to better detect diseases, treat them more effectively and make preventive measures more effective.
 
-### 1. Bundling of patient-related clinical data.
+### 1. Consolidating patient-oriented clinical data
 
 The MII aims to bring together patient-related clinical data from different healthcare facilities. With the patient's consent, this allows the treating physicians to have a comprehensive overview of the patient's history and the development of the disease. This can optimise treatment, avoid double examinations and increase the patient's well-being.
 
-### 2. Creation of information-technological prerequisites for customised therapies
+### 2. Establishing the IT framework for tailored treatments
 
 The initiative aims to create the basis for customised therapies that are best suited to the individual patient. This requires the secure handling of large amounts of data by treating physicians and the systems medicine analysis of patient data in order to develop evidence-based decision support systems.
 
-### 3. Use of patient data for scientific knowledge progress
+### 3. Acquiring insights from patient data
 
 Here, the aim of the MII is to make routine data from patient care useful for research by linking these data with information from medical research. This can reveal important links between genes, behaviours, diseases and complications and support innovations in diagnostics, therapy and prevention.
 
-### 4. Faster integration of scientific evidence into patient treatment.
+### 4. Making new findings immediately available for patient care
 
 The MII aims to integrate validated scientific findings more quickly into patient treatment. This means that current research results will be available to the treating physicians in real time, thus improving the quality of treatment.
 
@@ -77,6 +77,35 @@ MIRACUM data integration centres enable the identification and stratification of
 #### Use Case From knowledge to action – support for molecular tumour boards
 In the context of tumours, precision medicine is already very advanced. Many tumours can now be identified by driver mutations, and therefore treated in a targeted way. Moreover, clinical information, images, and molecular/genetic test results are compiled and shared via molecular tumour board meetings to aid interdisciplinary decision-making. MIRACUM will develop innovative IT solutions to improve quality assurance, data processing, data integration and information research that is required between high-throughput genetic analyses and treatment decisions. Additionally, hospitals will benefit from efficient data-visualisation tools that help them choose the right therapies.
 ## Projects of the MII
+In general, in the MII you distingush between 3 kinds of projects: "Modul-2b-Projekte", "Modul-3-Projekte" & "Digitale FortschrittsHubs Gesundheit". In  this chapter, all projects are shortly described
+### Modul-2b-Projekte
+#### baseTraCE
+#### DSF
+#### EVA4MII
+#### FDPG-plus
+#### fit4translation
+#### MII_NUM
+#### SU-TermServ
+#### TRANSIT
+### Modul-3-Projekte
+#### ACRIBiS
+This use case, coordinated by the University Hospital Bonn, brings together 15 research institutions to advance the digitalisation of health research in Germany. The project, called "ACRIBiS", focuses on further developing risk assessment for cardiovascular diseases by integrating clinical information and biosignals such as ECG data using modern IT methods. The goal is to improve prevention, diagnostics and therapy, as well as to provide individualised risk information to patients, with standardised data collection and innovative technologies playing a key role.
+#### CALM-QE
+#### EyeMatics
+In this use case, clinical data of patients who have received intravitreal surgical drug application (IVOM) for the treatment of eye diseases are collected and analysed from different clinics in Germany. The project aims to identify characteristic features of these eye diseases and to investigate the outcome during IVOM therapy by using statistical methods and artificial intelligence. The collaboration between university hospitals and rollout partners enables a multicentre evaluation of "real-world" data and should help to personalise and improve patient care in ophthalmology.
+#### GeMTeX
+/
+#### INTERPOLAR
+/
+#### OMI
+/
+#### PCOR-MII
+This use case addresses the increasing prevalence of chronic diseases of older people and develops a multidimensional disease management that improves the patient's quality of life. The patient's perspective will be included to enable individualised treatments. The PCOR-MII project aims to establish digital recording of patient-reported outcomes in clinics and to link these with other medical information in order to research therapy success. It focuses on clinical scenarios such as anorexia nervosa, persistent somatic symptoms and follow-up after kidney transplantation to advance the care of patients with chronic diseases.
+#### PM4Onco
+#### PrivateAIM
+#### RISK PRINCIPE
+The use case focuses on predicting and controlling nosocomial infections, i.e. hospital-acquired infections, which is a significant problem in high-income countries. The project plans to develop a (semi-)automated surveillance system and create patient-based risk profiles to improve the effectiveness of infection prevention. Different data sources will be evaluated and a holistic approach will be taken in cooperation with medical institutions, the RKI and other partners.
+#### Somnolink
 ### Digitale ForschrittsHubs Gesundheit ![](https://pad.gwdg.de/uploads/fe7b5ba2-5067-40dd-871f-49d5479d2107.png)
 The Digitale FortschrittsHubs Gesundheit, funded by the Federal Ministry of Education and Research, are established to boost digital innovations in medical care and to use regional health data to improve care concepts and therapies. These hubs work closely with various health care facilities, research institutions and health insurance companies to share and use data together. Their goals include optimising cardiovascular disease care, predicting and targeting therapy after intensive care, improving cancer follow-up, creating a digital ecosystem for research and therapy, data flow between urban and rural areas, and general improving the quality of care in rural areas.
 #### CAEHR: Optimise care for people with cardiovascular diseases
