@@ -4,7 +4,7 @@
 
 The MII is addressing a number of ambitious goals to transform healthcare in Germany and advance medical research.
 
-The main goal of the MII is to make data from routine care digital, reliable and quickly available for medical research. By using IT-based analyses of this data, research should help to better detect diseases, treat them more effectively and make preventive measures more effective.
+The main goal of the MII is to make data from routine care digital, reliable and quickly available for medical. By using IT-based analyses of this data, research should help to better detect diseases, treat them more effectively and make preventive measures more effective.
 
 ### 1. Consolidating patient-oriented clinical data
 
