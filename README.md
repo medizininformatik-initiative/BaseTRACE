@@ -12,10 +12,10 @@ If you just started working in a medical data integration center of a German Uni
 | --- | ---| --- | --- | --- |
 | Specification | MII-CDS | Consented for exchange within the MII | [MII Working group Interoperability](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group)  | [MII-CDS-Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects) |
 | Specification | Medical Information Objects | Standard for German electronic Health Record | [KBV-MIO, in German](https://mio.kbv.de/site/mio#) | [MIO-Specification in Simplifier](https://simplifier.net/search?Term=kbv.mio)|
-| Data platform | Deutsches Forschungsdatenportal für Gesundheit | Central point to request data from MII locations | info@forschen-fuer-gesundheit.de | [Flyer](https://www.medizininformatik-initiative.de/sites/default/files/2023-05/20230509_TMF_Faltflyer_A4_digital.pdf)
+| Data platform | Deutsches Forschungs-datenportal für Gesundheit | Central point to request data from MII locations | info@forschen-fuer-gesundheit.de | [Flyer](https://www.medizininformatik-initiative.de/sites/default/files/2023-05/20230509_TMF_Faltflyer_A4_digital.pdf)
 | --- | ---| --- | --- | --- |
-| Project | CAEHR  | Specification for cardiovascular data in emergency, rehabilitation & outpatient care | Prof. Dr. Dagmar Krefting | https://www.highmed.org/de/caehr |
-| Project | Acribis  | Specification for cardiovascular data to improve cardiovascular risk stratification and prediction | Prof. Dr. Dagmar Krefting | https://www.highmed.org/de/caehr |
+| Project | CAEHR  | Specification for cardiovascular data in emergency, rehabilitation & outpatient care | Prof. Dr. Dagmar Krefting | https://www.highmed.org/en/caehr |
+| Project | ACRIBiS  | Specification for cardiovascular data to improve cardiovascular risk stratification and prediction | Prof. Dr. Dagmar Krefting | https://www.highmed.org/en/acribis |
 | Project |MiHUBx | Establishment of a data integration centre at a non-university location | Prof. Dr. Martin Sedlymayr | https://mihubx.de/ |
 
 ### Medical device regulations
@@ -29,8 +29,6 @@ If you just started working in a medical data integration center of a German Uni
 | --- | --- | --- | --- | ---- |
 | Patient consent | MII sample patient consent | All University Medical Center locations have agreed on a standardized, consent-based approach for patients to allow the reuse of their clinical data, with input from various stakeholders and approval from data protection authorities. | / | [Website with consent forms in different languages](https://www.medizininformatik-initiative.de/de/mustertext-zur-patienteneinwilligung) 
 
-
-
 ### Image processing
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
@@ -38,7 +36,11 @@ If you just started working in a medical data integration center of a German Uni
 ### Artifical intelligence
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
-| Project | DECIDE | | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
+| Project | DECIDE | AI-based decision support system for ophthalmologists for the treatment of diabetic eye diseases | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
+| Project | DISTANCE | Artificial intelligence for risk analyses after intensive medical treatment | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
+| Project | MiHUBx | AI-based decision support system for  | Prof. Dr. Martin Sedlymayr | https://mihubx.de/ |
+
+
 
 ### Telemedicine & mobile apps
 | Type | Name | Description | Contact | Link/Material |
