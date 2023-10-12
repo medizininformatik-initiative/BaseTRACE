@@ -47,7 +47,9 @@ If you just started working in a medical data integration center of a German Uni
 | Project | DECIDE | AI-based decision support system for ophthalmologists for the treatment of diabetic eye diseases | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
 | Project | DISTANCE | Artificial intelligence for risk analyses after intensive medical treatment | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
 | Project | EyeMatics | Identify new characteristic features of eye diseases and to examine their course during IVOM therapy using AI| Prof. Dr. Nicole Eter, Prof. Dr. Julian Varghese, Prof. Dr. Andreas Stahl | https://www.highmed.org/en/eyematics
+| Project | GeMTeX | Extract useful information from unstructured medical text (such as doctors' letters and reports) to assist doctors and researchers in their work using natural language processing |Prof. Dr. Martin Boeker, Prof. Dr. Markus Löffler|https://www.medizininformatik-initiative.de/en/gemtex-automated-indexing-medical-texts-research
 | Project | MiHUBx | AI-based decision support system for ophthalmologists to treat patients with diabetic eye diseases | Prof. Dr. Martin Sedlmayr | https://mihubx.de/ |
+| Project | OMI | Development of a method platform to simplify the use of artificial intelligence applications so that time-consuming and repetitive tasks in medicine are carried out using AI methods in the future. | Prof. Dr. Felix Nensa | https://www.gesundheitsforschung-bmbf.de/de/omi-medizininformatik-plattform-open-medical-inference-16916.php |
 
 ### Telemedicine & mobile apps
 | Type | Name | Description | Contact | Link/Material |
