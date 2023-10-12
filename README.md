@@ -13,8 +13,9 @@ If you just started working in a medical data integration center of a German Uni
 | Specification | MII core data set | Consented for exchange within the MII | [MII Working group Interoperability](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group)  | [MII-CDS-Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects), [Basis modules of the MII core data set](https://www.medizininformatik-initiative.de/en/basic-modules-mii-core-data-set) |
 | Specification | Medical Information Objects | Standard for German electronic Health Record | [KBV-MIO, in German](https://mio.kbv.de/site/mio#) | [MIO-Specification in Simplifier](https://simplifier.net/search?Term=kbv.mio)|
 | Data platform | Deutsches Forschungs-datenportal für Gesundheit | Central point to request data from MII locations | info@forschen-fuer-gesundheit.de | [Flyer](https://www.medizininformatik-initiative.de/sites/default/files/2023-05/20230509_TMF_Faltflyer_A4_digital.pdf)
-| Project | CAEHR  | Specification for cardiovascular data in emergency, rehabilitation & outpatient care | Prof. Dr. Dagmar Krefting | https://www.highmed.org/en/caehr |
 | Project | ACRIBiS  | Specification for cardiovascular data to improve cardiovascular risk stratification and prediction | Prof. Dr. Dagmar Krefting | https://www.highmed.org/en/acribis |
+| Project | CAEHR  | Specification for cardiovascular data in emergency, rehabilitation & outpatient care | Prof. Dr. Dagmar Krefting | https://www.highmed.org/en/caehr |
+| Project | EyeMatics | Use of a harmonised core data set for ophthalmic data | Prof. Dr. Nicole Eter, Prof. Dr. Julian Varghese, Prof. Dr. Andreas Stahl | https://www.highmed.org/en/eyematics
 | Project |MiHUBx | Establishment of a data integration centre at a non-university location | Prof. Dr. Martin Sedlmayr | https://mihubx.de/ |
 | Working group | Data sharing | Developing a legally robust framework for data access and usage within the scope of the Medical Informatics Initiative. | Prof. Dr. Oliver Kohlbacher, Prof. Dr. Toralf Kirsten | https://www.medizininformatik-initiative.de/en/collaboration/data-sharing-working-group
 | Working group | Interoperability | Platform for agreeing amongst consortia the basis for ensuring interoperability between the proposed data integration centres. Created the MII core data set. | Prof. Dr. Sylvia Thun, Prof. Dr. Thomas Ganslandt | https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group
@@ -37,12 +38,15 @@ If you just started working in a medical data integration center of a German Uni
 ### Image processing
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
+| Project | CALM-QE | Integrating imaging data into the treatment of patients with asthma and COPD. | Dr. Anna-Maria Dittrich, Dr. Matthias Gietzelt
 
 ### Artifical intelligence
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
+| Project | CALM-QE | Predicting disease (asthma and COPD) development with AI | Dr. Anna-Maria Dittrich, Dr. Matthias Gietzelt
 | Project | DECIDE | AI-based decision support system for ophthalmologists for the treatment of diabetic eye diseases | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
 | Project | DISTANCE | Artificial intelligence for risk analyses after intensive medical treatment | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
+| Project | EyeMatics | Identify new characteristic features of eye diseases and to examine their course during IVOM therapy using AI| Prof. Dr. Nicole Eter, Prof. Dr. Julian Varghese, Prof. Dr. Andreas Stahl | https://www.highmed.org/en/eyematics
 | Project | MiHUBx | AI-based decision support system for ophthalmologists to treat patients with diabetic eye diseases | Prof. Dr. Martin Sedlmayr | https://mihubx.de/ |
 
 ### Telemedicine & mobile apps
