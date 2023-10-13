@@ -1,4 +1,4 @@
-![image](https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/09a40e05-c248-4963-a7a2-c94e618ad8bb)# Awesome MII ![Medical_Informatics_Initiative_Germany](https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png)
+# Awesome MII ![Medical_Informatics_Initiative_Germany](https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png)
 
 If you are member in an MII project and are interested what the others are doing, what solutions are developed and where to find support, you are spot-on.
 
