@@ -1,4 +1,4 @@
-# Awesome MII ![Medical_Informatics_Initiative_Germany](https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png)
+![image](https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/09a40e05-c248-4963-a7a2-c94e618ad8bb)# Awesome MII ![Medical_Informatics_Initiative_Germany](https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png)
 
 If you are member in an MII project and are interested what the others are doing, what solutions are developed and where to find support, you are spot-on.
 
@@ -15,11 +15,14 @@ If you just started working in a medical data integration center of a German Uni
 | Data platform | Deutsches Forschungs-datenportal für Gesundheit | Central point to request data from MII locations | info@forschen-fuer-gesundheit.de | [Flyer](https://www.medizininformatik-initiative.de/sites/default/files/2023-05/20230509_TMF_Faltflyer_A4_digital.pdf)
 | Project | ACRIBiS  | Specification for cardiovascular data to improve cardiovascular risk stratification and prediction | Prof. Dr. Dagmar Krefting | https://www.highmed.org/en/acribis |
 | Project | CAEHR  | Specification for cardiovascular data in emergency, rehabilitation & outpatient care | Prof. Dr. Dagmar Krefting | https://www.highmed.org/en/caehr |
+| Project | DSF|Medical IT Structur Data Sharing Framework Community: The network coordinates the digital exchange of research data from a wide range of partners in medicine.| Pro. Dr. Christian Fegeler|https://www.gesundheitsforschung-bmbf.de/de/dsf-medizininformatik-struktur-data-sharing-framework-community-16133.php
 | Project | EyeMatics | Use of a harmonised core data set for ophthalmic data | Prof. Dr. Nicole Eter, Prof. Dr. Julian Varghese, Prof. Dr. Andreas Stahl | https://www.highmed.org/en/eyematics
 | Project |MiHUBx | Establishment of a data integration centre at a non-university location | Prof. Dr. Martin Sedlmayr | https://mihubx.de/ |
 | Project | PCOR-MII |The aim is to establish the digital recording of patient related outcomes in clinics and to integrate them into the national core data set of the MII| Prof. Dr. Matthias Rose, Prof Dr. Fabian Prasser |https://www.highmed.org/en/pcor-mii
 | Project | PM4Onco |Harmonise and merge data from oncology centres and regional providers| Prof. Dr. Dr. Börries|https://www.gesundheitsforschung-bmbf.de/de/pm4onco-daten-besser-nutzbar-machen-krebserkrankungen-wirkungsvoller-behandeln-16626.php
 | Project | PrivateAIM |  Development of a federated platform for machine learning and data analytics in medicine combining advanced data federation methods and innovative privacy-preserving technologies. | Prof. Dr. Oliver Kohlbacher | https://www.gesundheitsforschung-bmbf.de/de/privateaim-medizininformatik-plattform-privatspharen-schutzende-analytik-in-der-medizin-16491.php
+|Project|SU-TermServ|Development and administration of a central terminology server for the MII and the University Medicine Network|Prof. Dr. Josef Ingenerf|https://mii-termserv.de/
+|Project|TRANSIT|Medical IT structure, Development of a data management unit (DMU). DMU provides essential services for scientists in their role as data consumers.|Marcel Klötgen|https://www.gesundheitsforschung-bmbf.de/de/transit-medizininformatik-struktur-data-management-unit-16148.php|
 | Working group | Data sharing | Developing a legally robust framework for data access and usage within the scope of the Medical Informatics Initiative. | Prof. Dr. Oliver Kohlbacher, Prof. Dr. Toralf Kirsten | https://www.medizininformatik-initiative.de/en/collaboration/data-sharing-working-group
 | Working group | Interoperability | Platform for agreeing amongst consortia the basis for ensuring interoperability between the proposed data integration centres. Created the MII core data set. | Prof. Dr. Sylvia Thun, Prof. Dr. Thomas Ganslandt | https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group
 | Working group | External data | Establishes the administrative and organizational framework for incorporating and linking data from external sources such as health insurance companies, registries, and other data-centric initiatives. | Prof. Dr. Wolfgang Hoffmann, Prof. Dr. Martin Sedlmayr | https://www.medizininformatik-initiative.de/en/collaboration/external-data-working-group
@@ -46,7 +49,7 @@ If you just started working in a medical data integration center of a German Uni
 ### Artifical intelligence
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
-| Project | CALM-QE | Predicting disease (asthma and COPD) development with AI | Dr. Anna-Maria Dittrich, Dr. Matthias Gietzelt
+| Project | CALM-QE | Predicting disease (asthma and COPD) development with AI | Dr. Anna-Maria Dittrich, Dr. Matthias Gietzelt|https://www.gesundheitsforschung-bmbf.de/de/calm-qe-medizininformatik-use-case-copd-und-asthma-longitudinale-und-sektorubergreifende-16644.php
 | Project | DECIDE | AI-based decision support system for ophthalmologists for the treatment of diabetic eye diseases | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
 | Project | DISTANCE | Artificial intelligence for risk analyses after intensive medical treatment | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
 | Project | EyeMatics | Identify new characteristic features of eye diseases and to examine their course during IVOM therapy using AI| Prof. Dr. Nicole Eter, Prof. Dr. Julian Varghese, Prof. Dr. Andreas Stahl | https://www.highmed.org/en/eyematics
@@ -69,6 +72,11 @@ If you just started working in a medical data integration center of a German Uni
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
 | Working group | Communication | Focuses on cross-consortia communications across the Medical Informatics Initiative | Cornelia Dolling, Dr. Claudia Heine | https://www.medizininformatik-initiative.de/en/collaboration/communication-working-group
-
-Disclaimer: Note that all information about the projects, specifications, etc. is **based only on publicly available sources**. 
+### Training & education
+| Type | Name | Description | Contact | Link/Material |
+| --- | --- | --- | --- | ---- |
+| Project| BaseTraCE|Basic Services for training and continuous education within the Medical Informatics Initiative. The aim is using a sustaibable and flexible plattform to ensure that the education-related developements and information structures created within the consortia are maintained and made available to the entire MII community.|Prof. Dr. Dagmar Krefting|https://www.gesundheitsforschung-bmbf.de/de/basetrace-medizininformatik-struktur-basisdienstleistungen-fur-die-aus-und-weiterbildung-16899.php
+|Project|EVA4MII|Establishing an infrastructure to support evaluation research based on routinely collected clinical data within the MII.|Prof. Dr. Peter Heuschmann|https://www.med.uni-wuerzburg.de/epidemiologie/forschung/projekte/medizininformatik/eva4mii/
+#### Disclaimer
+Note that all information about the projects, specifications, etc. is **based only on publicly available sources**. 
 If you are working on one of the listed projects and your project has been misrepresented or is missing in a category, please feel free to contact frederiklennart.graf@med.uni-goettingen.de.  
