@@ -59,14 +59,16 @@ If you just started working in a medical data integration center of a German Uni
 ### Telemedicine & mobile apps
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
-| Project | DECIDE | | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
-| Open Source App-Framework | Compass-App | non-MDR web-app and native app with questionaire editor  | [NUM-Compass Project](https://num-compass.science/en/) | [Repositories on github](https://github.com/NUMde) |
-| Project | DISTANCE | | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
-| Project | HELP | App that helps clinicians in regular and intensive care units decide what to do next |Prof. Dr. André Scherag | [HELP Website](https://www.smith.care/en/research/use-case-help/)
-| Project | LeMeDaRT | | Prof. Dr. Joachim E. Fischer | https://www.gesundheitsforschung-bmbf.de/de/lemedart-stadt-land-datenfluss-13055.php
+| Project | DECIDE |App for monitoring the sports therapy of cancer patients. | Dr. Torsten Panholzer | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
+| Open Source App-Framework | Compass-App | non-MDR web-app and native app with questionaire editor.  | [NUM-Compass Project](https://num-compass.science/en/) | [Repositories on github](https://github.com/NUMde) |
+| Project | DISTANCE |App that allows patients to send information to their attending physicians after leaving intensive care and to keep track of their own therapy progress. | Prof. Dr. Gernot Marx | https://www.gesundheitsforschung-bmbf.de/de/distance-krankheitsverlaufe-nach-intensivmedizinischer-betreuung-besser-vorhersagen-13021.php
+| Project | HELP | App that helps clinicians in regular and intensive care units decide what to do next. |Prof. Dr. André Scherag | [HELP Website](https://www.smith.care/en/research/use-case-help/)
 | Project |MiHUBx | App to involve patients in their cancer therapy. | Prof. Dr. Martin Sedlmayr | https://mihubx.de/ |
 
 ### Communication & Public relations
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
 | Working group | Communication | Focuses on cross-consortia communications across the Medical Informatics Initiative | Cornelia Dolling, Dr. Claudia Heine | https://www.medizininformatik-initiative.de/en/collaboration/communication-working-group
+
+Disclaimer: Note that all information about the projects, specifications, etc. is **based only on publicly available sources**. 
+If you are working on one of the listed projects and your project has been misrepresented or is missing in a category, please feel free to contact frederiklennart.graf@med.uni-goettingen.de.  
