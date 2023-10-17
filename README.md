@@ -1,10 +1,18 @@
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/zbetcheckin/Security_list)
 # Awesome MII ![Medical_Informatics_Initiative_Germany](https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png)
 
 If you are member in an MII project and are interested what the others are doing, what solutions are developed and where to find support, you are spot-on.
 
 If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
 ### Contents
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" />Health Data standards & exchange](###Health&nbsp;Data&nbsp;standards&nbsp;&&nbsp;exchange)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" />Health Data standards & exchange](###Health-Data-standards-&-exchange)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/ca9c7ed7-2bcd-461f-9fe9-4762b5ef19aa" width="28" height="28" />Medical device regulations](###Medical-device-regulations)<br>
+[<img src="" width="28" height="28" />Data Protection & consent](###Data Protection & consent)<br>
+[<img src="" width="28" height="28" />Image processing](###Image processing)<br>
+[<img src="" width="28" height="28" />Artifical intelligence](###Artifical intelligence)<br>
+[<img src="" width="28" height="28" />Telemedicine & mobile apps](###Telemedicine & mobile apps)<br>
+[<img src="" width="28" height="28" />Communication & Public relations](###Communication & Public relations)<br>
+[<img src="" width="28" height="28" />Training & education](###Training & education)<br>
 ## Topics of Interest
 ### Health&nbsp;Data&nbsp;standards&nbsp;&&nbsp;exchange
 | Type | Name | Description | Contact | Link/Material |
