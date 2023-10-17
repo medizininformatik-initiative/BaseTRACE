@@ -14,7 +14,7 @@ If you just started working in a medical data integration center of a German Uni
 [<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/7d97d8e5-b55d-475e-b476-0e46c3e5d4a4" width="28" height="28" /> Training & education](###training-&-education)<br>
 
 
-[testsprung zu medicial device regulation](###medical-device-regulations)
+[testsprung zu medicial device regulation](###Medical&nbsp;device&nbsp;regulations)
 
 ## Topics of Interest
 # Health Data standards & exchange
@@ -37,7 +37,7 @@ If you just started working in a medical data integration center of a German Uni
 | Working group | Interoperability | Platform for agreeing amongst consortia the basis for ensuring interoperability between the proposed data integration centres. Created the MII core data set. | [Prof. Dr. Sylvia Thun](https://mentalhealth.charite.de/metas/person/person/address_detail/prof_dr_sylvia_thun/), [Prof. Dr. Thomas Ganslandt](https://www.imi.med.fau.de/person/prof-dr-thomas-ganslandt/) | https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group
 | Working group | External data | Establishes the administrative and organizational framework for incorporating and linking data from external sources such as health insurance companies, registries, and other data-centric initiatives. | [Prof. Dr. Wolfgang Hoffmann](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=3rgq6rbrlqtqa), [Prof. Dr. Martin Sedlmayr](https://tu-dresden.de/med/mf/imb/das-institut/beschaeftigte/persoenliche-profile-der-mitarbeitenden/prof-dr-rer-nat-martin-sedlmayr) | https://www.medizininformatik-initiative.de/en/collaboration/external-data-working-group
 
-### Medical device regulations
+### Medical&nbsp;device&nbsp;regulations
 
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
