@@ -4,7 +4,7 @@ If you are member in an MII project and are interested what the others are doing
 
 If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
 ### Contents
-[<img src="https://i.ibb.co/XbyGTrP/1-authentication-2-36x36.png" width="28" height="28" /> Health Data standards & exchange](#health-data-standards--exchange)<br>
+[<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5988%2F5988503.png&tbnid=7jYCzIpwBmlh4M&vet=12ahUKEwjkgb_7hf2BAxVqywIHHYsWAxgQMygBegQIARBR..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fde%2Fkostenloses-icon%2Fstandard_5988503&docid=1Bk3jPDZ7xD9XM&w=512&h=512&q=data%20standard%20flaticon&ved=2ahUKEwjkgb_7hf2BAxVqywIHHYsWAxgQMygBegQIARBRg" width="28" height="28" /> Health Data standards & exchange](#health-data-standards--exchange)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275793548-ca9c7ed7-2bcd-461f-9fe9-4762b5ef19aa.png" width="28" height="28" /> Medical device regulations](#medicaldeviceregulations)<br>
 [<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/93d2345f-205b-411a-a21a-c37a7b7aa625.png" width="28" height="28" /> Data Protection & consent](#data-protection--consent)<br>
 [<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/9c5426bb-fb23-4894-baaa-863090ef75c8.png" width="28" height="28" /> Image processing](#image-processing)<br>
