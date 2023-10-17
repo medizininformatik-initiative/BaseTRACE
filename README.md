@@ -4,7 +4,7 @@ If you are member in an MII project and are interested what the others are doing
 
 If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
 ### Contents
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" />Health Data standards & exchange](###Health%20Data%20standards%20%26%20exchange)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" />Health Data standards & exchange](###Health&nbsp;Data&nbsp;standards&nbsp;&&nbsp;exchange)<br>
 ## Topics of Interest
 ### Health&nbsp;Data&nbsp;standards&nbsp;&&nbsp;exchange
 | Type | Name | Description | Contact | Link/Material |
