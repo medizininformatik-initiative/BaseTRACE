@@ -4,10 +4,9 @@ If you are member in an MII project and are interested what the others are doing
 
 If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
 ### Contents
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" />Health Data standards & exchange](###Health)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" />Health Data standards & exchange](###Health_Data_standards_&_exchange)<br>
 ## Topics of Interest
 ### Health Data standards & exchange
-# Test
 | Type | Name | Description | Contact | Link/Material |
 | --- | ---| --- | --- | --- |
 | Specification | MII core data set | Consented for exchange within the MII | [MII Working group Interoperability](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group)  | [MII-CDS-Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects), [Basis modules of the MII core data set](https://www.medizininformatik-initiative.de/en/basic-modules-mii-core-data-set) |
