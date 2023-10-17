@@ -5,8 +5,8 @@ If you are member in an MII project and are interested what the others are doing
 
 If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
 ### Contents
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" /> Health Data standards & exchange](###Health-Data-standards-&-exchange)<br>
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/ca9c7ed7-2bcd-461f-9fe9-4762b5ef19aa" width="28" height="28" /> Medical device regulations](###Medical-device-regulations)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" /> Health Data standards & exchange](###health-data-standards-&-exchange)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/ca9c7ed7-2bcd-461f-9fe9-4762b5ef19aa" width="28" height="28" /> Medical device regulations](###medical-device-regulations)<br>
 [<img src="" width="28" height="28" />Data Protection & consent](###Data Protection & consent)<br>
 [<img src="" width="28" height="28" />Image processing](###Image processing)<br>
 [<img src="" width="28" height="28" />Artifical intelligence](###Artifical intelligence)<br>
