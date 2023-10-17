@@ -1,9 +1,14 @@
+
+
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/zbetcheckin/Security_list)
-# Awesome MII ![Medical_Informatics_Initiative_Germany](https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png)
+
+# Awesome MII <img src="https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png" width="233" height="135" />
+
+
 If you are member in an MII project and are interested what the others are doing, what solutions are developed and where to find support, you are spot-on.
 
 If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
-### Contents
+### Categories
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275850824-131b633c-bc2a-4da0-9f4f-dfaecd61916e.png" width="28" height="28" /> Health Data standards & exchange](#health-data-standards--exchange)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275793548-ca9c7ed7-2bcd-461f-9fe9-4762b5ef19aa.png" width="28" height="28" /> Medical device regulations](#medicaldeviceregulations)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275810372-93d2345f-205b-411a-a21a-c37a7b7aa625.png" width="28" height="28" /> Data Protection & consent](#data-protection--consent)<br>
