@@ -33,7 +33,8 @@ If you just started working in a medical data integration center of a German Uni
 | --- | --- | --- | --- | ---- |
 | Project | fit4Translation | Competence development and support for the development of medical software under the regulatory framework | [Dr. Myriam Lipprandt](https://www.ukaachen.de/kliniken-institute/institut-fuer-medizinische-informatik/team/), [Prof. Dr. Sven Zenker](https://www.ukbonn.de/ueber-uns/stabsstellen/mwtek/), [Prof. Dr. Julian Varghese](https://www.medizin.uni-muenster.de/imi/das-institut/team/arbeitsgruppe-digital-health/univ-prof-dr-med-julian-varghese-m-sc.html) | https://www.gesundheitsforschung-bmbf.de/de/fit4translation-kompetenzerweiterung-und-unterstutzung-bei-der-entwicklung-von-16907.php
 | Project | HELP | Developing of a medical device: Decision-making support for physicians in diagnostic and therapeutic steps via the HELP App|[Prof. Dr. André Scherag](https://www.uniklinikum-jena.de/imsid/%C3%9Cber+uns/Mitarbeiter.html) | [HELP Website](https://www.smith.care/en/research/use-case-help/), [Publication: Lessons learned](https://www.egms.de/static/de/meetings/gmds2022/22gmds041.shtml)
-| Database | DMIDS public database | Public database of medical devices in Germany | / | https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DMIDS/_node.html 
+| Database | DMIDS public database | Public database of medical devices in Germany | / | https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DMIDS/_node.html
+| Working group | TMF Working group medical device regulation | Develops instruments to ensure and support the quality of medicial technical research | [Dr. Myriam Lipprandt](https://www.ukaachen.de/kliniken-institute/institut-fuer-medizinische-informatik/team/)|https://www.tmf-ev.de/unsere-arbeit/arbeitsgruppen/arbeitsgruppe-medizinische-software-und-medizinprodukterecht
  
 ### Data Protection & consent
 | Type | Name | Description | Contact | Link/Material |
