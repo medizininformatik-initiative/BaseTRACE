@@ -5,7 +5,7 @@ If you are member in an MII project and are interested what the others are doing
 
 If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
 ### Contents
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" /> Health Data standards & exchange](###health-data-standards-&-exchange)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/acd90ced-0c14-4591-b442-4ff9901cc22b" width="28" height="28" /> Health Data standards & exchange](#health-data-standards-&-exchange)<br>
 [<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/ca9c7ed7-2bcd-461f-9fe9-4762b5ef19aa" width="28" height="28" /> Medical device regulations](###medical-device-regulations)<br>
 [<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/93d2345f-205b-411a-a21a-c37a7b7aa625" width="28" height="28" /> Data Protection & consent](###data-protection-&-consent)<br>
 [<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/9c5426bb-fb23-4894-baaa-863090ef75c8" width="28" height="28" /> Image processing](###image-processing)<br>
@@ -14,7 +14,7 @@ If you just started working in a medical data integration center of a German Uni
 [<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/21fbd96c-e969-466c-8ffd-bed8950f7cda" width="28" height="28" /> Communication & Public relations](###communication-&-public-relations)<br>
 [<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/7d97d8e5-b55d-475e-b476-0e46c3e5d4a4" width="28" height="28" /> Training & education](###training-&-education)<br>
 ## Topics of Interest
-### Health&nbsp;Data&nbsp;standards&nbsp;&&nbsp;exchange
+# Health&nbsp;Data&nbsp;standards&nbsp;&&nbsp;exchange
 | Type | Name | Description | Contact | Link/Material |
 | --- | ---| --- | --- | --- |
 | Specification | MII core data set | Consented for exchange within the MII | [MII Working group Interoperability](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group)  | [MII-CDS-Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects), [Basis modules of the MII core data set](https://www.medizininformatik-initiative.de/en/basic-modules-mii-core-data-set) |
