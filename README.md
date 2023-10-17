@@ -5,13 +5,13 @@ If you are member in an MII project and are interested what the others are doing
 If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
 ### Contents
 [<img src="https://i.ibb.co/XbyGTrP/1-authentication-2-36x36.png" width="28" height="28" /> Health Data standards & exchange](#health-data-standards--exchange)<br>
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/ca9c7ed7-2bcd-461f-9fe9-4762b5ef19aa" width="28" height="28" /> Medical device regulations](#medicaldeviceregulations)<br>
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/93d2345f-205b-411a-a21a-c37a7b7aa625" width="28" height="28" /> Data Protection & consent](#data-protection--consent)<br>
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/9c5426bb-fb23-4894-baaa-863090ef75c8" width="28" height="28" /> Image processing](#image-processing)<br>
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/93fc5ac2-4890-489e-8a34-b9eebc94c68e" width="28" height="28" /> Artifical intelligence](#artifical-intelligence)<br>
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/474af23f-0a87-4346-8e03-5c57847e2080" width="28" height="28" /> Telemedicine & mobile apps](#telemedicine--mobile-apps)<br>
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/21fbd96c-e969-466c-8ffd-bed8950f7cda" width="28" height="28" /> Communication & Public relations](#communication--public-relations)<br>
-[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/7d97d8e5-b55d-475e-b476-0e46c3e5d4a4" width="28" height="28" /> Training & education](#training--education)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/ca9c7ed7-2bcd-461f-9fe9-4762b5ef19aa.png" width="28" height="28" /> Medical device regulations](#medicaldeviceregulations)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/93d2345f-205b-411a-a21a-c37a7b7aa625.png" width="28" height="28" /> Data Protection & consent](#data-protection--consent)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/9c5426bb-fb23-4894-baaa-863090ef75c8.png" width="28" height="28" /> Image processing](#image-processing)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/93fc5ac2-4890-489e-8a34-b9eebc94c68e.png" width="28" height="28" /> Artifical intelligence](#artifical-intelligence)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/474af23f-0a87-4346-8e03-5c57847e2080.png" width="28" height="28" /> Telemedicine & mobile apps](#telemedicine--mobile-apps)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/21fbd96c-e969-466c-8ffd-bed8950f7cda.png" width="28" height="28" /> Communication & Public relations](#communication--public-relations)<br>
+[<img src="https://github.com/medizininformatik-initiative/BaseTRACE/assets/145696408/7d97d8e5-b55d-475e-b476-0e46c3e5d4a4.png" width="28" height="28" /> Training & education](#training--education)<br>
 
 
 [testsprung zu medicial device regulation](#medicaldeviceregulations)
