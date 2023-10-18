@@ -84,7 +84,7 @@ If you just started working in a medical data integration center of a German Uni
 ### Tools
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
-| Database| TMF ToolPool| | |https://www.toolpool-gesundheitsforschung.de/
+| Database| TMF ToolPool| Annotated database of useful tools in health sciences and health care. |[Editorial office](redaktion@toolpool-gesundheitsforschung.de) |https://www.toolpool-gesundheitsforschung.de/
 | Working group (TMF)|IT-Infrastructure and quality management|The aim of the working group is to support the work processes in medical research projects and to ensure the quality of the processes and results.|[Dr. Knut Kaulke](knut.kaulke@tmf-ev.de)|https://www.tmf-ev.de/unsere-arbeit/arbeitsgruppen/arbeitsgruppe-it-infrastruktur-und-qualitaetsmanagement
 
 ### Projects
