@@ -55,7 +55,7 @@ If you just started working in a medical data integration center of a German Uni
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
 | Patient consent | MII sample patient consent | All University Medical Center locations have agreed on a standardized, consent-based approach for patients to allow the reuse of their clinical data, with input from various stakeholders and approval from data protection authorities. | / | [Website with consent forms in different languages](https://www.medizininformatik-initiative.de/de/mustertext-zur-patienteneinwilligung) 
-| Template|Template risk documenting|Template for documenting risk and protection needs analyses of data protection impact assessments according to Art. 35 GDPR in medical research.|[Dr. Knut Kaulke](https://www.toolpool-gesundheitsforschung.de/produkte/template-zur-dokumentation-von-datenschutz-folgenabschaetzungen-nach-art-35-dsgvo)|[Direct Download](https://www.toolpool-gesundheitsforschung.de/sites/default/files/2023-10/TMF_DSFA-Template_rc06_0.xlsx), [Website](https://www.toolpool-gesundheitsforschung.de/produkte/template-zur-dokumentation-von-datenschutz-folgenabschaetzungen-nach-art-35-dsgvo)| 
+| Template|Template risk documenting|Template for documenting risk and protection needs analyses of data protection impact assessments according to Art. 35 GDPR in medical research.|[Dr. Knut Kaulke](knut.kaulke@tmf-ev.de)|[Direct Download](https://www.toolpool-gesundheitsforschung.de/sites/default/files/2023-10/TMF_DSFA-Template_rc06_0.xlsx), [Website](https://www.toolpool-gesundheitsforschung.de/produkte/template-zur-dokumentation-von-datenschutz-folgenabschaetzungen-nach-art-35-dsgvo)| 
 | Working group (MII) | Consent | Focuses on the design of the consent declaration signed by patients to allow healthcare data to be used in future medical research. | [Prof. Dr. Sven Zenker](https://www.ukbonn.de/ueber-uns/stabsstellen/mwtek/), [Prof. Dr. Dr. Daniel Strech](https://www.bihealth.org/de/translation/innovationstreiber/quest-center/teams/team/ag-strech) | https://www.medizininformatik-initiative.de/en/collaboration/consent-working-group
 | Working group (TMF)| Data protection|The Data Protection Working Group has the task of advising research consortia and projects on data protection issues, in particular on the preparation of data protection concepts.|[Dr. Johannes Drepper](johannes.drepper@tmf-ev.de)|https://www.tmf-ev.de/unsere-arbeit/arbeitsgruppen/arbeitsgruppe-datenschutz
 
@@ -85,6 +85,7 @@ If you just started working in a medical data integration center of a German Uni
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
 | Database| TMF ToolPool| | |https://www.toolpool-gesundheitsforschung.de/
+| Working group(TMF)|IT-Infrastructure and quality management|The aim of the working group is to support the work processes in medical research projects and to ensure the quality of the processes and results.|[Dr. Knut Kaulke](knut.kaulke@tmf-ev.de)|https://www.tmf-ev.de/unsere-arbeit/arbeitsgruppen/arbeitsgruppe-it-infrastruktur-und-qualitaetsmanagement
 
 ### Projects
 | Topic | Name | Description | Contact | Link/Material |
