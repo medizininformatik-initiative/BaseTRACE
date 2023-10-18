@@ -16,7 +16,7 @@ If you just started working in a medical data integration center of a German Uni
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275811367-474af23f-0a87-4346-8e03-5c57847e2080.png" width="28" height="28" /> Telemedicine & mobile apps](#mobile-apps)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275811688-21fbd96c-e969-466c-8ffd-bed8950f7cda.png" width="28" height="28" /> Communication & Public relations](#communication--public-relations)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275811837-7d97d8e5-b55d-475e-b476-0e46c3e5d4a4.png" width="28" height="28" /> Training & education](#training--education)<br>
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276170141-928b3d68-a290-4672-9985-ee6e44a80004.pngg" width="28" height="28" /> Projects](#projects)<br>
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276170141-928b3d68-a290-4672-9985-ee6e44a80004.png" width="28" height="28" /> Projects](#projects)<br>
 
 
 ## Topics of Interest
