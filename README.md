@@ -9,18 +9,19 @@ If you are member in an MII project and are interested what the others are doing
 
 If you just started working in a medical data integration center of a German University Hospital, check the [MII Quickstart Guide](./mii-quickstart.md). 
 ### Categories
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275850824-131b633c-bc2a-4da0-9f4f-dfaecd61916e.png" width="28" height="28" /> Health Data standards & exchange](#health-data-standards--exchange)<br>
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275850824-131b633c-bc2a-4da0-9f4f-dfaecd61916e.png" width="28" height="28" /> Health Data standards](#health-data-standards)<br>
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276141686-a4a4d081-10f9-4d96-bc59-de4822b48da1.png" width="28" height="28" /> Health Data exchange](#health-data-exchange)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275793548-ca9c7ed7-2bcd-461f-9fe9-4762b5ef19aa.png" width="28" height="28" /> Medical device regulations](#medicaldeviceregulations)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275810372-93d2345f-205b-411a-a21a-c37a7b7aa625.png" width="28" height="28" /> Data Protection & consent](#data-protection--consent)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275811004-9c5426bb-fb23-4894-baaa-863090ef75c8.png" width="28" height="28" /> Image processing](#image-processing)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275811211-93fc5ac2-4890-489e-8a34-b9eebc94c68e.png" width="28" height="28" /> Artifical intelligence](#artifical-intelligence)<br>
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275811367-474af23f-0a87-4346-8e03-5c57847e2080.png" width="28" height="28" /> Telemedicine & mobile apps](#telemedicine--mobile-apps)<br>
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275811367-474af23f-0a87-4346-8e03-5c57847e2080.png" width="28" height="28" /> Telemedicine & mobile apps](#mobile-apps)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275811688-21fbd96c-e969-466c-8ffd-bed8950f7cda.png" width="28" height="28" /> Communication & Public relations](#communication--public-relations)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/275811837-7d97d8e5-b55d-475e-b476-0e46c3e5d4a4.png" width="28" height="28" /> Training & education](#training--education)<br>
 
 
 ## Topics of Interest
-### Health Data standards & exchange
+### Health Data standards
 | Type | Name | Description | Contact | Link/Material |
 | --- | ---| --- | --- | --- |
 | Specification | MII core data set | Consented for exchange within the MII | [MII Working group Interoperability](https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group)  | [MII-CDS-Specification in Simplifier](https://simplifier.net/organization/koordinationsstellemii/~projects), [Basis modules of the MII core data set](https://www.medizininformatik-initiative.de/en/basic-modules-mii-core-data-set) |
@@ -40,6 +41,10 @@ If you just started working in a medical data integration center of a German Uni
 | Working group | Data sharing | Developing a legally robust framework for data access and usage within the scope of the Medical Informatics Initiative. | [Prof. Dr. Oliver Kohlbacher](https://www.bioinformatik.de/de/bioinformatik-in-deutschland-3/forschung/arbeitsgruppen/293-prof-dr-ing-oliver-kohlbacher-applied-bioinformatics.html), [Prof. Dr. Toralf Kirsten](https://www.izbi.uni-leipzig.de/staff-member/toralf-kirsten/) | https://www.medizininformatik-initiative.de/en/collaboration/data-sharing-working-group
 | Working group | Interoperability | Platform for agreeing amongst consortia the basis for ensuring interoperability between the proposed data integration centres. Created the MII core data set. | [Prof. Dr. Sylvia Thun](https://mentalhealth.charite.de/metas/person/person/address_detail/prof_dr_sylvia_thun/), [Prof. Dr. Thomas Ganslandt](https://www.imi.med.fau.de/person/prof-dr-thomas-ganslandt/) | https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group
 | Working group | External data | Establishes the administrative and organizational framework for incorporating and linking data from external sources such as health insurance companies, registries, and other data-centric initiatives. | [Prof. Dr. Wolfgang Hoffmann](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=3rgq6rbrlqtqa), [Prof. Dr. Martin Sedlmayr](https://tu-dresden.de/med/mf/imb/das-institut/beschaeftigte/persoenliche-profile-der-mitarbeitenden/prof-dr-rer-nat-martin-sedlmayr) | https://www.medizininformatik-initiative.de/en/collaboration/external-data-working-group
+
+### Health Data exchange
+| Type | Name | Description | Contact | Link/Material |
+| --- | ---| --- | --- | --- |
 
 ### Medical&nbsp;device&nbsp;regulations
 
@@ -73,7 +78,7 @@ If you just started working in a medical data integration center of a German Uni
 | Project | Somnolink | Better understanding of the individual causes of obstructive sleep apnoea using artificial intelligence. | [Prof. Dr. Dagmar Krefting](https://medizininformatik.umg.eu/ueber-uns/team/prof-dr-rer-nat-dagmar-krefting/) | https://www.medizininformatik-initiative.de/en/node/791 |
 
 
-### Telemedicine & mobile apps
+### Mobile apps
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
 | Project | DECIDE |App for monitoring the sports therapy of cancer patients. | [Dr. Torsten Panholzer](https://www.unimedizin-mainz.de/imbei/informatik/medizininformatik/mitarbeiter/panholzer.html) | https://www.gesundheitsforschung-bmbf.de/de/decide-versorgungsqualitat-in-landlichen-regionen-verbessern-13024.php
