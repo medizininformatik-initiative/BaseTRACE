@@ -12,15 +12,10 @@ If you just started working in a medical data integration center of a German Uni
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276191067-f6e8b7d7-4377-4e6c-b314-582437275ed2.png" width="28" height="28" /> Health Data exchange](#health-data-exchange)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276191414-8c22bf5b-905e-45ae-a1f8-ec3992c7907e.png" width="28" height="28" /> Medical device regulations](#medicaldeviceregulations)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276191976-b8d2bbe3-20dd-4434-9bf9-c2197131fa5e.png" width="28" height="28" /> Data Protection & consent](#data-protection--consent)<br>
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276192182-9a1c3b37-2875-487a-8209-1cde37e71df2.png" width="28" height="28" /> Image processing](#image-processing)<br>
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276192456-16ac3193-f646-4e7a-b650-ebdf49403370.png" width="28" height="28" /> Artifical intelligence](#artifical-intelligence)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276192915-3bfad5d1-dce9-44d2-b420-736273949379.png" width="28" height="28" /> Mobile apps](#mobile-apps)<br>
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276193502-2c567b2b-e72a-4821-81a6-a18412eb231b.png" width="28" height="28" /> Communication & Public relations](#communication--public-relations)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276193777-505a3920-1b0b-4d5a-b865-3e70c1beb083.png" width="28" height="28" /> Training & education](#training--education)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276189407-75e4c368-6d25-47b4-812b-b2c4c416cc3d.png" width="28" height="28" /> Tools](#tools)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276194053-6d1aea17-e3a5-455c-920a-f50f96f0647b.png" width="28" height="28" /> Projects](#projects)<br>
-
-
 
 
 ## Topics of Interest
@@ -34,7 +29,6 @@ If you just started working in a medical data integration center of a German Uni
 | Working group (TMF) |Data quality |The goal is to further develop recommendations, standards and tools for quality assurance and data assessments.|[Marcel Holick](marcel.holick@tmf-ev.de)|https://www.tmf-ev.de/unsere-arbeit/arbeitsgruppen/arbeitsgruppe-datenqualitaet-und-transparenz
 | Working group (TMF)| Register | The working group focuses on how patient-related registers can be further developed against the background of changing health policy framework conditions and technological possibilities so that they can be used even more beneficially for medical research and health services research. |[Dr. Anna Niemeyer](anna.niemeyer@tmf-ev.de)|https://www.tmf-ev.de/unsere-arbeit/arbeitsgruppen/arbeitsgruppe-register
 
-
 ### Health Data exchange
 | Type | Name | Description | Contact | Link/Material |
 | --- | ---| --- | --- | --- |
@@ -43,8 +37,7 @@ If you just started working in a medical data integration center of a German Uni
 | Working group (MII)| External data | Establishes the administrative and organizational framework for incorporating and linking data from external sources such as health insurance companies, registries, and other data-centric initiatives. | [Prof. Dr. Wolfgang Hoffmann](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=3rgq6rbrlqtqa), [Prof. Dr. Martin Sedlmayr](https://tu-dresden.de/med/mf/imb/das-institut/beschaeftigte/persoenliche-profile-der-mitarbeitenden/prof-dr-rer-nat-martin-sedlmayr) | https://www.medizininformatik-initiative.de/en/collaboration/external-data-working-group
 
 
-### Medical&nbsp;device&nbsp;regulations
-
+### Medical device regulations
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
 | Project | fit4Translation | Competence development and support for the development of medical software under the regulatory framework | [Dr. Myriam Lipprandt](https://www.ukaachen.de/kliniken-institute/institut-fuer-medizinische-informatik/team/), [Prof. Dr. Sven Zenker](https://www.ukbonn.de/ueber-uns/stabsstellen/mwtek/), [Prof. Dr. Julian Varghese](https://www.medizin.uni-muenster.de/imi/das-institut/team/arbeitsgruppe-digital-health/univ-prof-dr-med-julian-varghese-m-sc.html) | https://www.gesundheitsforschung-bmbf.de/de/fit4translation-kompetenzerweiterung-und-unterstutzung-bei-der-entwicklung-von-16907.php
@@ -59,29 +52,12 @@ If you just started working in a medical data integration center of a German Uni
 | Working group (MII) | Consent | Focuses on the design of the consent declaration signed by patients to allow healthcare data to be used in future medical research. | [Prof. Dr. Sven Zenker](https://www.ukbonn.de/ueber-uns/stabsstellen/mwtek/), [Prof. Dr. Dr. Daniel Strech](https://www.bihealth.org/de/translation/innovationstreiber/quest-center/teams/team/ag-strech) | https://www.medizininformatik-initiative.de/en/collaboration/consent-working-group
 | Working group (TMF)| Data protection|The Data Protection Working Group has the task of advising research consortia and projects on data protection issues, in particular on the preparation of data protection concepts.|[Dr. Johannes Drepper](johannes.drepper@tmf-ev.de)|https://www.tmf-ev.de/unsere-arbeit/arbeitsgruppen/arbeitsgruppe-datenschutz
 
-### Image processing
-| Type | Name | Description | Contact | Link/Material |
-| --- | --- | --- | --- | ---- |
-
-### Artifical intelligence
-| Type | Name | Description | Contact | Link/Material |
-| --- | --- | --- | --- | ---- |
-
-
 ### Mobile apps
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
 | Open Source App-Framework | Compass-App | non-MDR web-app and native app with questionaire editor.  | [NUM-Compass Project](https://num-compass.science/en/) | [Repositories on github](https://github.com/NUMde) |
 
-
-### Communication & Public relations
-| Type | Name | Description | Contact | Link/Material |
-| --- | --- | --- | --- | ---- |
-| Working group (MII)| Communication | Focuses on cross-consortia communications across the Medical Informatics Initiative | [Cornelia Dolling](https://www.uniklinikum-leipzig.de/einrichtungen/life/life-management-cluster/team), [Dr. Claudia-Silvia Heine](https://www.uniklinikum-dresden.de/de/das-klinikum/universitaetscentren/zentrum-fuer-medizinische-informatik/zentrum/stabstelle-des-num) | https://www.medizininformatik-initiative.de/en/collaboration/communication-working-group
-### Training & education
-| Type | Name | Description | Contact | Link/Material |
-| --- | --- | --- | --- | ---- |
-### Tools
+### Tools Collections
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
 | Database| TMF ToolPool| Annotated database of useful tools in health sciences and health care. |[Editorial office](redaktion@toolpool-gesundheitsforschung.de) |https://www.toolpool-gesundheitsforschung.de/
@@ -120,3 +96,6 @@ If you just started working in a medical data integration center of a German Uni
 #### Disclaimer
 Note that all information about the projects, specifications, etc. is **based only on publicly available sources**. 
 If you are working on one of the listed projects and your project has been misrepresented or is missing in a category, please feel free to contact frederiklennart.graf@med.uni-goettingen.de.  
+
+
+
