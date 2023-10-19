@@ -13,7 +13,6 @@ If you just started working in a medical data integration center of a German Uni
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276191414-8c22bf5b-905e-45ae-a1f8-ec3992c7907e.png" width="28" height="28" /> Medical device regulations](#medicaldeviceregulations)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276191976-b8d2bbe3-20dd-4434-9bf9-c2197131fa5e.png" width="28" height="28" /> Data Protection & consent](#data-protection--consent)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276192915-3bfad5d1-dce9-44d2-b420-736273949379.png" width="28" height="28" /> Mobile apps](#mobile-apps)<br>
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276193777-505a3920-1b0b-4d5a-b865-3e70c1beb083.png" width="28" height="28" /> Training & education](#training--education)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276189407-75e4c368-6d25-47b4-812b-b2c4c416cc3d.png" width="28" height="28" /> Tools](#tools)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276194053-6d1aea17-e3a5-455c-920a-f50f96f0647b.png" width="28" height="28" /> Projects](#projects)<br>
 
