@@ -36,31 +36,22 @@ Further Information to the MII are in this [file](./MII_Information.md)
 | FHIR basics | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2022/2022-03-29-grundprinzipien-von-fhir | German
 | FHIR and MII core data set | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2022/2022-04-05-fhir-search-und-der-mii-kerndatensatz | German
 | FHIR interface between intensive care documentation system and data integration centre | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2021/2021-08-03-fhir-schnittstelle-zwischen-intensivdokumentationssystem-und-dat | German
-#### OpenEHR
-| Description | Link | Language
-| -------- | -------- | -------- |
-| OpenEHR (Video Tutorials) | https://openehr.org/resources/learning_centre | English
+
 #### LOINC
 | Description | Link | Language
 | -------- | -------- | -------- |
 | LOINC (Video Tutorials) | https://loinc.org/videos/ | English
+
 #### SNOMED CT
 | Description | Link | Language
 | -------- | -------- | -------- |
 | SNOMED CT (E-Learning Platform) | https://elearning.ihtsdotools.org/ | English
 
-### Data integration methods
-| Description | Link |Language
-| -------- | -------- | -------- |
-| Talend Data Integration (Course) | https://www.talend.com/academy/ | English
-| Talend Data Integration (Book with Tutorials) | https://books.google.de/books/about/Datenintegration.html?id=7TZQAgAAQBAJ&redir_esc=y | German
-| Python Pandas | https://pandas.pydata.org/ | English
-
-### Further useful technologies
+### Technologies that are agreed to be used throughout all DICs
 | Description | Link |Language
 | -------- | -------- | -------- |
 | Docker |  | 
-| Active Workflow |  |
+| DSF |  |
 | ... |  |
 
 ### Concepts
