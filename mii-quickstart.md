@@ -36,6 +36,7 @@ Further Information to the MII are in this [file](./MII_Information.md)
 | FHIR basics | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2022/2022-03-29-grundprinzipien-von-fhir | German
 | FHIR and MII core data set | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2022/2022-04-05-fhir-search-und-der-mii-kerndatensatz | German
 | FHIR interface between intensive care documentation system and data integration centre | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2021/2021-08-03-fhir-schnittstelle-zwischen-intensivdokumentationssystem-und-dat | German
+| Introduction to HL7 FHIR by Simone Heckmann (SMITH-Winterworkshop 2020)|https://player.vimeo.com/video/530260312 | German
 
 #### LOINC
 | Description | Link | Language
