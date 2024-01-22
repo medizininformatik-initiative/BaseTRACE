@@ -13,7 +13,7 @@ The main organisational components are
 - **Central Committee**: The central committee of the Medical Informatics Initiative, oversees and guides the implementation of the funding concept by coordinating collaboration, making decisions on working groups and topics, and providing recommendations on various aspects of the initiative, including data usage and standards.
 - **The Medical Informatics Initiative** in total
 
-Further Information to the MII are in this [file](./MII_Information.md)
+Further Information to the MII are in this [file](./README.md)
 
 ## Access and account setup
 | Description | Link | Contact |
