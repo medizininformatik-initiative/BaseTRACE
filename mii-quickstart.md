@@ -13,58 +13,58 @@ The main organisational components are
 - **Central Committee**: The central committee of the Medical Informatics Initiative, oversees and guides the implementation of the funding concept by coordinating collaboration, making decisions on working groups and topics, and providing recommendations on various aspects of the initiative, including data usage and standards.
 - **The Medical Informatics Initiative** in total
 
-Further Information to the MII are in this [file](./MII_Information.md)
+Further Information to the MII are in this [file](./README.md)
 
 ## Access and account setup
-| Description | Link | Contact
+| Description | Link | Contact |
 | -------- | -------- | -------- |
 | MII Sharepoint | https://tmfev.sharepoint.com/ | office@medizininformatik-initiative.de
 | Deutsches Forschungsdatenportal für Gesundheit | https://www.forschen-fuer-gesundheit.de/register.php | /
 
 ## Learning and education
 ### Data sets in medical informatics
-| Description | Link | Language
+| Description | Link | Language |
 | -------- | -------- | -------- |
-| MII Core data set | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2023/2023-09-26-der-mii-kerndatensatz-und-seine-erweiterungsmodule | German
+| MII Core data set | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-09-26-der-mii-kerndatensatz-und-seine-erweiterungsmodule | German
 
 ### Data standards in medical informatics
 #### FHIR
-| Description | Link | Language
+| Description | Link | Language |
 | -------- | -------- | -------- |
 | FHIR (HL7 Fundamentals Course) | https://www.hl7.org/training/HL7-fundamentals.cfm?ref=nav | English
-| FHIR Kindling (CRUD operations) | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2022/2022-09-06-fhir-kindling-python-fhir-library | German with english slides
-| FHIR basics | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2022/2022-03-29-grundprinzipien-von-fhir | German
-| FHIR and MII core data set | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2022/2022-04-05-fhir-search-und-der-mii-kerndatensatz | German
-| FHIR interface between intensive care documentation system and data integration centre | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2021/2021-08-03-fhir-schnittstelle-zwischen-intensivdokumentationssystem-und-dat | German
-| Introduction to HL7 FHIR by Simone Heckmann (SMITH-Winterworkshop 2020)|https://player.vimeo.com/video/530260312 | German
+| FHIR Kindling (CRUD operations) | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2022/2022-09-06-fhir-kindling-python-fhir-library | German with english slides
+| FHIR basics | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2022/2022-03-29-grundprinzipien-von-fhir | German
+| FHIR and MII core data set | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2022/2022-04-05-fhir-search-und-der-mii-kerndatensatz | German
+| FHIR interface between intensive care documentation system and data integration centre | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2021/2021-08-03-fhir-schnittstelle-zwischen-intensivdokumentationssystem-und-dat | German
+| Introduction to HL7 FHIR by Simone Heckmann (SMITH-Winterworkshop 2020)| https://player.vimeo.com/video/530260312 | German
 
 #### LOINC
-| Description | Link | Language
+| Description | Link | Language |
 | -------- | -------- | -------- |
 | LOINC (Video Tutorials) | https://loinc.org/videos/ | English
 
 #### SNOMED CT
-| Description | Link | Language
+| Description | Link | Language |
 | -------- | -------- | -------- |
 | SNOMED CT (E-Learning Platform) | https://elearning.ihtsdotools.org/ | English
 
 ### Technologies that are agreed to be used throughout all DICs
-| Description | Link |Language
+| Description | Link | Language |
 | -------- | -------- | -------- |
 | Docker |  | 
 | DSF |  |
 | ... |  |
 
 ### Concepts
-| Description | Link |Language
+| Description | Link | Language |
 | -------- | -------- | -------- |
 | FAIR Principles |  |
 | Pseudonymisation |  |
 | ... |  |
 
 ### Additional material
-| Description | Link |Language
+| Description | Link | Language |
 | -------- | -------- | -------- |
-| Establishment of a data integration center. | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2023/2023-07-04-das-diz-am-klinikum-chemnitz-motivation-konzeption-mehrwert https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/miracum-difuture-kolloquium/2023/2023-06-20-das-diz-am-ukr-stand-des-aufbaus-und-spezifit%C3%A4ten| German
+| Establishment of a data integration center. | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-07-04-das-diz-am-klinikum-chemnitz-motivation-konzeption-mehrwert <br> https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-06-20-das-diz-am-ukr-stand-des-aufbaus-und-spezifit%C3%A4ten | German
 
 We hope you found the information you are looking for. If not, please open an issue and give feedback. 
