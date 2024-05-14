@@ -21,11 +21,13 @@ Further Information to the MII are in this [file](./README.md)
 | MII Sharepoint | https://tmfev.sharepoint.com/ | office@medizininformatik-initiative.de
 | Deutsches Forschungsdatenportal für Gesundheit | https://www.forschen-fuer-gesundheit.de/register.php | /
 
-## Learning and education
+## Learning and education ressources
 ### Data sets in medical informatics
-| Description | Link | Language |
-| -------- | -------- | -------- |
-| MII Core data set | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-09-26-der-mii-kerndatensatz-und-seine-erweiterungsmodule | German
+| Name | Description | Type | Link | Language |
+| --- | --- | :---: | --- | --- |
+| MII Core data set | Short introduction to MII-CDS | video | [video introduction to MII-CDS](https://www.youtube.com/watch?v=aZa4to8Hk9E) | German
+| MII Core data set | Introduction to MII-CDS | lecture recording | [lecture recording to MII-CDS](https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-09-26-der-mii-kerndatensatz-und-seine-erweiterungsmodule) | German
+| Basic modules | Basic modules of the MII core data set described by MII Working group Interoperability | description | [Basic modules of the MII core data set](https://www.medizininformatik-initiative.de/en/basic-modules-mii-core-data-set) | English and German
 
 ### Data standards in medical informatics
 #### FHIR
