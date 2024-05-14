@@ -2,7 +2,7 @@ Tobi Test
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/zbetcheckin/Security_list)
 
 # Awesome MII <img src="https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png" width="233" height="135" />
-Test Erik 
+
 
 If you are member in an MII project and are interested what the others are doing, what solutions are developed and where to find support, you are spot-on.
 
