@@ -21,7 +21,7 @@ Further Information to the MII are in this [file](./README.md)
 | MII Sharepoint | https://tmfev.sharepoint.com/ | office@medizininformatik-initiative.de
 | Deutsches Forschungsdatenportal für Gesundheit | https://www.forschen-fuer-gesundheit.de/register.php | /
 
-
+</br></br>
 ## Learning and education ressources
 ### Ethical-legal framework and organisation of a DIC
 | Name | Description | Type | Link | Language |
@@ -30,7 +30,7 @@ Further Information to the MII are in this [file](./README.md)
 | Ethisch-rechtlicher Rahmen eines DIZ | the ethical-legal framework of a DIC | text-nugget | comming soon | German
 | DIZ-Organisation | organisation of a DIC | test-nugget | coming soon | German
 
-### MII architectural concept - services and processes
+### MII architectural concept for DIC- services and processes
 | Name | Description | Type | Link | Language |
 | --- | --- | :---: | --- | --- |
 | Die Komponenten eines DIZ | Components of a data integration center for harmonized data storage and provision | text-nugget | comming soon | German
@@ -46,6 +46,7 @@ Further Information to the MII are in this [file](./README.md)
 | Establishment of a data integration center | necessary framework conditions and milestones for the establishment of a DIC | video |[MD-Kolloquium](https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-06-20-das-diz-am-ukr-stand-des-aufbaus-und-spezifit%C3%A4ten) | German
 | Establishment of a data integration center | Organization and structures of a non-university DIC | video | [MD-Kolloquium](https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-07-04-das-diz-am-klinikum-chemnitz-motivation-konzeption-mehrwert) | German
 
+</br></br>
 ### Data sets in medical informatics
 | Name | Description | Type | Link | Language |
 | --- | --- | :---: | --- | --- |
