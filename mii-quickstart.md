@@ -21,7 +21,31 @@ Further Information to the MII are in this [file](./README.md)
 | MII Sharepoint | https://tmfev.sharepoint.com/ | office@medizininformatik-initiative.de
 | Deutsches Forschungsdatenportal für Gesundheit | https://www.forschen-fuer-gesundheit.de/register.php | /
 
+
 ## Learning and education ressources
+### Ethical-legal framework and organisation of a DIC
+| Name | Description | Type | Link | Language |
+| --- | --- | :---: | --- | --- |
+| Die 3 Säulen eines DIZ  | Organization, technology and ethical-legal framework of a DIC | text-nugget | [baseTraCE-document](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Modul2Projekte/baseTraCE/Lernmaterialien/baseTraCE/Text-Nuggets/Die-drei-S%C3%A4ulen-eines-DIZ.pdf?csf=1&web=1&e=z4jUt7) | German
+| Ethisch-rechtlicher Rahmen eines DIZ | the ethical-legal framework of a DIC | text-nugget | comming soon | German
+| DIZ-Organisation | organisation of a DIC | test-nugget | coming soon | German
+
+### MII architectural concept - services and processes
+| Name | Description | Type | Link | Language |
+| --- | --- | :---: | --- | --- |
+| Die Komponenten eines DIZ | Components of a data integration center for harmonized data storage and provision | text-nugget | comming soon | German
+| MII Gesamtarchitektur | MII data sharing architecture of the task force comprehensive interfaces | website | https://github.com/medizininformatik-initiative/mii-architecture/wiki | German
+| Die Prozesslandschaft eines DIZ | typical process landscape of a data integration center with data processing as the core process | text-nugget | comming soon | German
+| DIC Services | services of a core DIC | text-nugget | comming soon | German
+
+### Design and development of a DIC
+| Name | Description | Type | Link | Language |
+| --- | --- | :---: | --- | --- |
+| Overview article | Data integration centers—from a concept in the Medical Informatics Initiative to its local implementation in the Network of University Medicine | paper | [Bundesgesundheistblatt](https://rdcu.be/dIF0O) |German
+| DIC establishment and onboarding to the MII and the FDPG | DIZ-Onboarding-Masterdokument | document | noch nicht freigegeben | German
+| Establishment of a data integration center | necessary framework conditions and milestones for the establishment of a DIC | video |[MD-Kolloquium](https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-06-20-das-diz-am-ukr-stand-des-aufbaus-und-spezifit%C3%A4ten) | German
+| Establishment of a data integration center | Organization and structures of a non-university DIC | video | [MD-Kolloquium](https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-07-04-das-diz-am-klinikum-chemnitz-motivation-konzeption-mehrwert) | German
+
 ### Data sets in medical informatics
 | Name | Description | Type | Link | Language |
 | --- | --- | :---: | --- | --- |
@@ -67,6 +91,6 @@ Further Information to the MII are in this [file](./README.md)
 ### Additional material
 | Description | Link | Language |
 | -------- | -------- | -------- |
-| Establishment of a data integration center. | https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-07-04-das-diz-am-klinikum-chemnitz-motivation-konzeption-mehrwert <br> https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-06-20-das-diz-am-ukr-stand-des-aufbaus-und-spezifit%C3%A4ten | German
+
 
 We hope you found the information you are looking for. If not, please open an issue and give feedback. 
