@@ -27,7 +27,7 @@ Further Information to the MII are in this [file](./README.md)
 | Name | Description | Type | Link | Language |
 | --- | --- | :---: | --- | --- |
 | Die 3 Säulen eines DIZ  | Organization, technology and ethical-legal framework of a DIC | text-nugget | [baseTraCE-document](Die%203%20S%C3%A4ulen%20eines%20DIZ.pdf) | German
-| Ethisch-rechtlicher Rahmen eines DIZ | the ethical-legal framework of a DIC | text-nugget | [baseTraCE-document](Die%20F%C3%A4higkeiten%20eines%20Kern-DIZ.pdf) | German
+| Ethisch-rechtlicher Rahmen eines DIZ | the ethical-legal framework of a DIC | text-nugget | TODO | German
 | DIZ-Organisation | organisation of a DIC | test-nugget | [baseTraCE-document](.pdf) | German
 
 ### MII architectural concept for DIC- services and processes
