@@ -26,17 +26,17 @@ Further Information to the MII are in this [file](./README.md)
 ### Ethical-legal framework and organisation of a DIC
 | Name | Description | Type | Link | Language |
 | --- | --- | :---: | --- | --- |
-| Die 3 Säulen eines DIZ  | Organization, technology and ethical-legal framework of a DIC | text-nugget | [baseTraCE-document](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Modul2Projekte/baseTraCE/Lernmaterialien/baseTraCE/Text-Nuggets/Die-drei-S%C3%A4ulen-eines-DIZ.pdf?csf=1&web=1&e=z4jUt7) | German
-| Ethisch-rechtlicher Rahmen eines DIZ | the ethical-legal framework of a DIC | text-nugget | comming soon | German
-| DIZ-Organisation | organisation of a DIC | test-nugget | coming soon | German
+| Die 3 Säulen eines DIZ  | Organization, technology and ethical-legal framework of a DIC | text-nugget | [baseTraCE-document](Die%203%20S%C3%A4ulen%20eines%20DIZ.pdf) | German
+| Ethisch-rechtlicher Rahmen eines DIZ | the ethical-legal framework of a DIC | text-nugget | [baseTraCE-document](Die%20F%C3%A4higkeiten%20eines%20Kern-DIZ.pdf) | German
+| DIZ-Organisation | organisation of a DIC | test-nugget | [baseTraCE-document](.pdf) | German
 
 ### MII architectural concept for DIC- services and processes
 | Name | Description | Type | Link | Language |
 | --- | --- | :---: | --- | --- |
-| Die Komponenten eines DIZ | Components of a data integration center for harmonized data storage and provision | text-nugget | comming soon | German
+| Die Komponenten eines DIZ | Components of a data integration center for harmonized data storage and provision | text-nugget |  [baseTraCE-document](Die%20Komponenten%20eines%20DIZ.pdf) | German
 | MII Gesamtarchitektur | MII data sharing architecture of the task force comprehensive interfaces | website | https://github.com/medizininformatik-initiative/mii-architecture/wiki | German
-| Die Prozesslandschaft eines DIZ | typical process landscape of a data integration center with data processing as the core process | text-nugget | comming soon | German
-| DIC Services | services of a core DIC | text-nugget | comming soon | German
+| Die Prozesslandschaft eines DIZ | typical process landscape of a data integration center with data processing as the core process | text-nugget | [baseTraCE-document](Die%20Prozesslandschaft%20eines%20DIZ.pdf) | German
+| DIC Services | services of a core DIC | text-nugget |  [baseTraCE-document](Die%20F%C3%A4higkeiten%20eines%20Kern-DIZ.pdf) | German
 
 ### Design and development of a DIC
 | Name | Description | Type | Link | Language |
