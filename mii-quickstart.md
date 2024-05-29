@@ -28,7 +28,7 @@ Further Information to the MII are in this [file](./README.md)
 | --- | --- | :---: | --- | --- |
 | Die 3 Säulen eines DIZ  | Organization, technology and ethical-legal framework of a DIC | text-nugget | [baseTraCE-document](Die%203%20S%C3%A4ulen%20eines%20DIZ.pdf) | German
 | Ethisch-rechtlicher Rahmen eines DIZ | the ethical-legal framework of a DIC | text-nugget | TODO | German
-| DIZ-Organisation | organisation of a DIC | test-nugget | [baseTraCE-document](.pdf) | German
+| DIZ-Organisation | organisation of a DIC | test-nugget | TODO| German
 
 ### MII architectural concept for DIC- services and processes
 | Name | Description | Type | Link | Language |
@@ -47,7 +47,7 @@ Further Information to the MII are in this [file](./README.md)
 | Establishment of a data integration center | Organization and structures of a non-university DIC | video | [MD-Kolloquium](https://sites.google.com/master-bids.de/miracum-difuture-kolloquium/archiv/2023/2023-07-04-das-diz-am-klinikum-chemnitz-motivation-konzeption-mehrwert) | German
 
 </br></br>
-### Data sets in medical informatics
+### Data sets in medical informatics / the MII Core Data Set
 | Name | Description | Type | Link | Language |
 | --- | --- | :---: | --- | --- |
 | MII Core data set | Short introduction to MII-CDS | video | [video introduction to MII-CDS](https://www.youtube.com/watch?v=aZa4to8Hk9E) | German
