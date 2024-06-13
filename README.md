@@ -14,7 +14,7 @@ If you just started working in a medical data integration center of a German Uni
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276192915-3bfad5d1-dce9-44d2-b420-736273949379.png" width="28" height="28" /> Mobile apps](#mobile-apps)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276189407-75e4c368-6d25-47b4-812b-b2c4c416cc3d.png" width="28" height="28" /> Tool Collections](#tools-collections)<br>
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276194053-6d1aea17-e3a5-455c-920a-f50f96f0647b.png" width="28" height="28" /> Projects](#projects)<br>
-
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/145696408/276194053-6d1aea17-e3a5-455c-920a-f50f96f0647b.png" width="28" height="28" /> Teaching](#teaching)<br>
 
 ## Topics of Interest
 
@@ -94,6 +94,10 @@ If you just started working in a medical data integration center of a German Uni
 | Training & education | EVA4MII | Establishing an infrastructure to support evaluation research based on routinely collected clinical data within the MII. | [Prof. Dr. Peter Heuschmann](https://www.med.uni-wuerzburg.de/epidemiologie/institut/mitarbeiter/prof-dr-peter-u-heuschmann/) | https://www.ukw.de/interdisziplinaere-einrichtungen/institut-fuer-medizinische-datenwissenschaften/projekte/methodische-beratung-fuer-die-evaluationsforschung/ 
 | Training & education | MII_NUM | Cooperation between the MII and the Network of University Medicine (NUM). Its objectives include the establishment of common training programmes in the field of IT security and consent management as well as the increased involvement of the NUM clinical community in the work within the MII.| [Sebastian Semler](https://www.tmf-ev.de/ueber-uns/geschaeftsfuehrung) | https://www.gesundheitsforschung-bmbf.de/de/mii-num-medizininformatik-struktur-16912.php
 
+### Teaching
+| Topic | Name | Description | Contact | Link/Material |
+| --- | --- | --- | --- | ---- |
+| learning objective catalogs | HI-LONa | Plattform for learning objective catalogs in the field of Biomedical and Health Informatics | [SMITH-JET](https://www.smith.care/de/lehre/lehre-in-smith/) | https://hilona.de |
 
 #### Disclaimer
 Note that all information about the projects, specifications, etc. is **based only on publicly available sources**. 
