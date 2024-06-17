@@ -90,8 +90,8 @@ Further Information to the MII are in this [file](./README.md)
 | ... |  |
 
 ### Additional material
-| Description | Link | Language |
-| -------- | -------- | -------- |
-
+| Name | Description | Link | Language |
+| -------- | -------- | -------- | -------- |
+| MII Academy | Online Learning Platform for Clinician Scientists using DIC data | https://www.medizininformatik-initiative.de/de/konsortien/mii-academy | German |
 
 We hope you found the information you are looking for. If not, please open an issue and give feedback. 
