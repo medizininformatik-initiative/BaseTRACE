@@ -15,6 +15,9 @@ The main organisational components are
 
 Further Information to the MII are in this [file](./README.md)
 
+## The Network of University Medicine (NUM) 
+Since 2023 the MII-DIZ are part of the network university medicine (NUM, https://www.netzwerk-universitaetsmedizin.de/ueber-uns/das-netzwerk-universitaetsmedizin-num). As NUM-DIZ they are one of the projects within NUM (https://www.netzwerk-universitaetsmedizin.de/projekte/num-diz).
+
 ## Access and account setup
 | Description | Link | Contact |
 | -------- | -------- | -------- |
