@@ -21,6 +21,12 @@ Further Information to the MII are in this [file](./README.md)
 | MII Sharepoint | https://tmfev.sharepoint.com/ | office@medizininformatik-initiative.de
 | Deutsches Forschungsdatenportal für Gesundheit | https://www.forschen-fuer-gesundheit.de/register.php | /
 
+## Current Information
+| Description | Link |
+| -------- | -------- | 
+| MII Calendar | https://tmfev.sharepoint.com/sites/tmf/mi-i/Lists/Termine/calendar.aspx 
+| MII-Newsletter | https://www.medizininformatik-initiative.de/de/aktuelles/newsletter
+
 </br></br>
 ## Learning and education ressources
 ### Ethical-legal framework and organisation of a DIC
