@@ -26,6 +26,7 @@ Further Information to the MII are in this [file](./README.md)
 | -------- | -------- | 
 | MII Calendar | https://tmfev.sharepoint.com/sites/tmf/mi-i/Lists/Termine/calendar.aspx 
 | MII-Newsletter | https://www.medizininformatik-initiative.de/de/aktuelles/newsletter
+| NUM-Newsletter | https://www.netzwerk-universitaetsmedizin.de/media/newsletter
 
 </br></br>
 ## Learning and education ressources
